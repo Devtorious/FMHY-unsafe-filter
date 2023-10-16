@@ -3,6 +3,10 @@
 ! Homepage: https://redd.it/10bh0h9
 ! Previoush omepage for the repository: https://gist.github.com/Rust1667/df78d493cf3c00340c535d93e303c4f9
 ! Homepage for the repository: https://github.com/Devtorious/FMHY-unsafe-filter
+! sources: 
+! https://rentry.org/EsotericaSiteList
+! https://rentry.co/MR-Sites
+
 
 # Game Sites
 oceanofgames.$document
@@ -45,7 +49,10 @@ download.cnet.com
 *.softonic.$document
 ftuapps.dev
 filecr.com
-crackingpatching.com.$document
+crackingpatching.com
+kolompc.com
+*igetintopc.com
+*oceanofapks.com
 
 # Torrent sites
 *thepiratebay.$document
