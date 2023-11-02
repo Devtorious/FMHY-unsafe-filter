@@ -6,6 +6,7 @@
 ! sources: 
 ! https://rentry.org/EsotericaSiteList
 ! https://rentry.co/MR-Sites
+! https://rentry.co/megathread-unsafe-sites
 
 
 # Game Sites
@@ -26,38 +27,49 @@ romsunlocked.com
 ||fitgirls-repack.*^$all,domain=~fitgirl-repacks.site
 ||fitgirl-repacks-site.org^$doc,domain=~fitgirl-repacks.site
 gamedrive.org.$document
-pcgamestorrents.com.$document
+pcgamestorrents.$document
 getgamez.net.$document
 cracked-games.org.$document
 nosteam.ro.$document
 gamestorrent.co.$document
+steam-repacks.com
+repack-games.com
+nexus-games.com
+gamestorrents.fm
+game3rb.com
+descargagame.com
+crohasit.net
+apunkagames.com
 
 # Software / App Sites
 *getintopc.com
 www.getintomac.net
-www.sadeempc.com
-sadeemapk.com
-karanpc.com
-s0ft4pc.com
-portable4pc.com
-crackshash.$document
-haxnode.net
+*sadeempc.com
+*sadeemapk.com
+*karanpc.com
+*s0ft4pc.com
+*portable4pc.com
+*crackshash.$document
+*haxnode.net
 app.app-valley.vip
 www.tutubox.io
-ignition.fun
+*ignition.fun
 download.cnet.com
 *.softonic.$document
-ftuapps.dev
-filecr.com
-crackingpatching.com
-kolompc.com
+*ftuapps.dev
+*filecr.com
+*crackingpatching.com
+*kolompc.com
 *igetintopc.com
 *oceanofapks.com
+*getintopc.com
 
 # Torrent sites
 *thepiratebay.$document
 *kickasstorrents.$document
 *1377x.$document
+*yts-mx.$document
+*therarbg.com
 
 # Software / Apps
 www.utorrent.com
@@ -134,6 +146,7 @@ apklands.com
 apkprofit.com
 tekmods.com
 theapkzone.net
+
 
 # On #deleted-sites because they look sketchy or scammy (or have been reported to be so)
 downloadplus.chromiums.org
