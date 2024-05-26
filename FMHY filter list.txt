@@ -40,10 +40,20 @@ game3rb.com
 descargagame.com
 crohasit.net
 apunkagames.com
+coolrom.$document
+crotorrents.com
+blackboxrepacke.com
+elamigosweb.com
+empresstorrents.com
+gamepciso.com
+nosteamgames.ro
+oceansofgamess.com
+qoob.name
+wifi4games.com
 
 # Software / App Sites
 *getintopc.com
-www.getintomac.net
+*getintomac.net
 *sadeempc.com
 *sadeemapk.com
 *karanpc.com
@@ -51,8 +61,8 @@ www.getintomac.net
 *portable4pc.com
 *crackshash.$document
 *haxnode.net
-app.app-valley.vip
-www.tutubox.io
+*app-valley.vip
+*tutubox.io
 *ignition.fun
 download.cnet.com
 *.softonic.$document
@@ -63,6 +73,11 @@ download.cnet.com
 *igetintopc.com
 *oceanofapks.com
 *getintopc.com
+*crackedfully.com
+*haxpc.net
+*vfxdownload.$document
+*vfxdownloads.$document
+*yasdl.com
 
 # Torrent sites
 *thepiratebay.$document
@@ -70,6 +85,9 @@ download.cnet.com
 *1377x.$document
 *yts-mx.$document
 *therarbg.com
+*rarbg.to
+*rarbg.club
+*torrentlite.org
 
 # Software / Apps
 www.utorrent.com
@@ -87,6 +105,8 @@ www.privateinternetaccess.com
 tlauncher.org
 polymc.org
 limewire.com
+allpcworld.com
+
 
 # fake Z-Library domains (source: https://www.reddit.com/r/zlibrary/comments/zx6z62/megathread_how_to_access_zlibrary_on_tor_app/)
 zlib.is
@@ -96,6 +116,12 @@ zlibrary.is
 z-lib.is
 z-lib.to
 
+#Movies & TV
+*soap2day.$document
+*yts.mx
+*AniMixPlay.$document
+*zoroxtv.$document
+*zoro.$document||@@domain=zoro.com
 
 # ---------------
 # EXTRA
@@ -219,3 +245,5 @@ picwish.com
 www.conceptworld.com
 apkod.com
 torrent2exe.com
+elamigos.games.net
+sampledrive.in
