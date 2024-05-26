@@ -121,7 +121,8 @@ z-lib.to
 *yts.mx
 *AniMixPlay.$document
 *zoroxtv.$document
-*zoro.$document||@@domain=zoro.com
+*zoro.$document
+@@||zoro.com^$document
 
 # ---------------
 # EXTRA
