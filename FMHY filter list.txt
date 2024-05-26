@@ -122,6 +122,7 @@ z-lib.to
 *AniMixPlay.$document
 *zoroxtv.$document
 *zoro.$document
+#unrelated innocent site
 @@||zoro.com^$document
 
 # ---------------
